@@ -35,7 +35,7 @@ A modern, animated collapsible sidebar built with **HTML**, **CSS**, and **JavaS
    ```bash
    git clone https://github.com/your-username/collapsible-sidebar.git
    cd collapsible-sidebar
-````
+
 
 2. **Open in browser**
    Simply open `index.html` in any modern browser.
