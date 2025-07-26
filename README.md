@@ -1,11 +1,7 @@
-Description
 
-This project is a responsive **Collapsible Sidebar UI Component** built using **HTML**, **CSS**, and **JavaScript**. The sidebar features a clean, modern layout and includes smooth animations for expanding and collapsing interactions. It contains a logo placeholder at the top, followed by 4–5 navigational links each paired with an icon, and a toggle button that allows users to open or close the sidebar. The design ensures fluid transitions, making it suitable for integration into modern web apps or dashboards. This task helps strengthen fundamental frontend skills, covering layout techniques, component structuring, CSS transitions, and DOM manipulation logic with vanilla JavaScript.
-
----
 # Collapsible Sidebar UI Component
 
-A modern, animated collapsible sidebar built with **HTML**, **CSS**, and **JavaScript**. This project demonstrates responsive component layout, icon-based navigation, and toggle interaction logic with smooth animations.
+A modern, animated collapsible sidebar built with **HTML**, **CSS**, and **JavaScript**. This project demonstrates responsive component layout, icon-based navigation, and toggle interaction logic with smooth animations.This project is a responsive **Collapsible Sidebar UI Component** built using **HTML**, **CSS**, and **JavaScript**. The sidebar features a clean, modern layout and includes smooth animations for expanding and collapsing interactions. It contains a logo placeholder at the top, followed by 4–5 navigational links each paired with an icon, and a toggle button that allows users to open or close the sidebar. The design ensures fluid transitions, making it suitable for integration into modern web apps or dashboards. This task helps strengthen fundamental frontend skills, covering layout techniques, component structuring, CSS transitions, and DOM manipulation logic with vanilla JavaScript.
 
 ---
 
